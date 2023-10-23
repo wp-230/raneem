@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 wwwww
 uuiuiiiiiiiiiiiiii
+=======
+>>>>>>> parent of 93e395c (ferst4)
 jkkkkkkkkkkk
 jjiuytyg
 2039939
